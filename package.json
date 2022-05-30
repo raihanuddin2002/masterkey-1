@@ -1,0 +1,11 @@
+{
+  "name": "masterkey-task-1",
+  "version": "1.0.0",
+  "description": "",
+  "main": "test.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "raihanuddin2002",
+  "license": "ISC"
+}
